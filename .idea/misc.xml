@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/ic_lock.xml" value="0.103" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/font/ubuntu.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_changing_the_profile.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_choice1.xml" value="0.3625" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_choice2.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_finish.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_info_attr.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_login.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_my_buy.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_pay1.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_pay2.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_registration.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_ses.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/fragment_basket.xml" value="0.1" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/fragment_like.xml" value="0.1" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.24166666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
