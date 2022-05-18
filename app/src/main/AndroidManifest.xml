@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CityOfAttractions">
         <activity
+            android:name=".activities.DateActivity"
+            android:exported="false" />
+        <activity
             android:name=".activities.ChangingTheProfileActivity"
             android:exported="false" />
         <activity
