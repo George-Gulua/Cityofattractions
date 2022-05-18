@@ -3,23 +3,44 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/ic_back.xml" value="0.1415" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/ic_basket.xml" value="0.1415" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/ic_cross.xml" value="0.1415" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/ic_email.xml" value="0.1415" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/ic_eye_wheel.xml" value="0.1415" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/ic_heart.xml" value="0.1415" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1415" />
         <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/ic_lock.xml" value="0.103" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/ic_settings.xml" value="0.1415" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/ic_time.xml" value="0.1415" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/ic_user_profile.xml" value="0.1415" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/ic_wastebasket.xml" value="0.1415" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/layout_shape.xml" value="0.1415" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/layout_shape2.xml" value="0.1415" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable-v24/rounded_edittext.xml" value="0.1415" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1415" />
         <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/font/ubuntu.xml" value="0.19074074074074074" />
-        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_changing_the_profile.xml" value="0.1527777777777778" />
-        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_choice1.xml" value="0.3625" />
-        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_choice2.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_changing_the_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_choice.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_choice1.xml" value="0.33" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_choice2.xml" value="0.25" />
         <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_finish.xml" value="0.1527777777777778" />
-        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_info_attr.xml" value="0.1527777777777778" />
-        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_login.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_info_attr.xml" value="0.22" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_my_buy.xml" value="0.1527777777777778" />
-        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_pay1.xml" value="0.1527777777777778" />
-        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_pay2.xml" value="0.1527777777777778" />
-        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_registration.xml" value="0.1527777777777778" />
-        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_ses.xml" value="0.1527777777777778" />
-        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/fragment_basket.xml" value="0.1" />
-        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/fragment_like.xml" value="0.1" />
-        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_my_buy.xml" value="0.22" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_pay.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_pay1.xml" value="0.18" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_pay2.xml" value="0.25" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_registration.xml" value="0.33" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/activity_ses.xml" value="0.25" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/fragment_basket.xml" value="0.33" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/fragment_choice.xml" value="0.3625" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/fragment_like.xml" value="0.33" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/fragment_like2.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/item_like.xml" value="0.33" />
+        <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/layout/item_news.xml" value="0.33" />
         <entry key="..\:/Users/Gaming/AndroidStudioProjects/Cityofattractions/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.24166666666666667" />
       </map>
     </option>

@@ -7,7 +7,7 @@
     tools:context=".ui.MainActivity"
     android:background="@color/main_color">
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/button_registration"
         android:layout_width="300dp"
         android:layout_height="65dp"
         android:backgroundTint="@color/button"

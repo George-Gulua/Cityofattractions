@@ -8,7 +8,7 @@
     android:background="@color/main_color">
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
-        android:id="@+id/bottom_navigation"
+        android:id="@+id/bottomNavigationView"
         style="@style/Widget.Design.BottomNavigationView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -22,7 +22,7 @@
         app:itemTextColor="@color/black"/>
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/button_registration"
         android:layout_width="180dp"
         android:layout_height="55dp"
         android:backgroundTint="@color/input_color"
@@ -39,17 +39,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.912" />
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="45dp"
-        android:layout_height="45dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.072"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.044"
-        app:srcCompat="@drawable/ic_cross" />
     <TextView
         android:id="@+id/textBasket"
         android:layout_width="wrap_content"
@@ -62,21 +51,22 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.058" />
+
     <ImageView
         android:id="@+id/imageView6"
-        android:layout_width="80dp"
-        android:layout_height="80dp"
+        android:layout_width="46dp"
+        android:layout_height="37dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.951"
+        app:layout_constraintHorizontal_bias="0.902"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.019"
+        app:layout_constraintVertical_bias="0.058"
         app:srcCompat="@drawable/ic_basket" />
 
     <ScrollView
-        android:layout_width="413dp"
-        android:layout_height="600dp"
+        android:layout_width="360dp"
+        android:layout_height="486dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -93,14 +83,14 @@
                 android:orientation="horizontal">
 
                 <androidx.constraintlayout.widget.ConstraintLayout
-                    android:layout_width="209dp"
-                    android:layout_height="181dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="186dp"
                     android:background="@color/for_photo">
 
                     <ImageView
                         android:id="@+id/imageView16"
-                        android:layout_width="451dp"
-                        android:layout_height="123dp"
+                        android:layout_width="479dp"
+                        android:layout_height="128dp"
                         app:layout_constraintBottom_toBottomOf="parent"
                         app:layout_constraintEnd_toEndOf="parent"
                         app:layout_constraintStart_toStartOf="parent"

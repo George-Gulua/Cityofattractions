@@ -16,22 +16,16 @@
             android:name=".activities.FinishActivity"
             android:exported="false" />
         <activity
-            android:name=".activities.SesActivity"
-            android:exported="false" />
-        <activity
             android:name=".activities.InfoAttrActivity"
             android:exported="false" />
         <activity
             android:name=".activities.MyBuyActivity"
             android:exported="false" />
         <activity
-            android:name=".activities.Pay2Activity"
+            android:name=".activities.PayActivity"
             android:exported="false" />
         <activity
-            android:name=".activities.Pay1Activity"
-            android:exported="false" />
-        <activity
-            android:name=".activities.RegistrationActivity"
+            android:name=".mvvm.views.RegistrationActivity"
             android:exported="false" />
         <activity
             android:name=".mvvm.views.LoginActivity"
@@ -42,18 +36,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".activities.Choice2Activity"
-            android:exported="false" />
-        <activity
-            android:name=".ui.MainActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+        <activity android:name=".mvvm.views.AppActivity" />
     </application>
 
 </manifest>
