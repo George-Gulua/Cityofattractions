@@ -9,14 +9,18 @@ import android.view.View;
 import com.example.cityofattractions.R;
 import com.example.cityofattractions.mvvm.views.AppActivity;
 
-public class MyBuyActivity extends AppCompatActivity {
+public class DateActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_my_buy);
+        setContentView(R.layout.activity_date);
     }
-    public void  backMyBuy(View view) {
+    public void  backToBasket(View view) {
         startActivity(new Intent(this, AppActivity.class));
+    }
+
+    public void  goReserve(View view) {
+        startActivity(new Intent(this, PayActivity.class));
     }
 }
